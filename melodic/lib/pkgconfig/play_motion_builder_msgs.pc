@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: play_motion_builder_msgs
+Description: Description of play_motion_builder_msgs
+Version: 1.0.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime actionlib_msgs

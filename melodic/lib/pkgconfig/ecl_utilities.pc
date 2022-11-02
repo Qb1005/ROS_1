@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: ecl_utilities
+Description: Description of ecl_utilities
+Version: 0.62.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: ecl_mpl ecl_concepts

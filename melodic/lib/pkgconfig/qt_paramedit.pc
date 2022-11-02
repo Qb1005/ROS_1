@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: qt_paramedit
+Description: Description of qt_paramedit
+Version: 1.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lxmlRpcModel
+Requires: roscpp

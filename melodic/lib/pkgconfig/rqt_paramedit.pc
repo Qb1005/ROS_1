@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rqt_paramedit
+Description: Description of rqt_paramedit
+Version: 1.0.1
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lrqt_paramedit
+Requires: roscpp qt_paramedit rqt_gui_cpp rqt_gui

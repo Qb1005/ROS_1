@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: drone_wrapper
+Description: Description of drone_wrapper
+Version: 1.3.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

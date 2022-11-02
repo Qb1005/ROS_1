@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: rqt_multiplot
+Version: 0.0.10
+Summary: rqt_multiplot provides a GUI plugin for visualizing numeric values
+    in multiple 2D plots using the Qwt plotting backend.
+Home-page: UNKNOWN
+Author: Ralf Kaestner <ralf.kaestner@gmail.com>, Samuel Bachmann <samuel.bachmann@gmail.com>
+Author-email: UNKNOWN
+License: GNU Lesser General Public License (LGPL)
+Description: UNKNOWN
+Platform: UNKNOWN

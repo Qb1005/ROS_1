@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rqt_joint_trajectory_plot
+Description: Description of rqt_joint_trajectory_plot
+Version: 0.0.5
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_ground_robot_teleop
+Version: 1.3.10
+Summary: A common ground robot teleop interface for all ground robot exercises in the JdeRobot Robotics Academy
+Home-page: UNKNOWN
+Author: Pedro Arias
+Author-email: pedroariasperez96@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN

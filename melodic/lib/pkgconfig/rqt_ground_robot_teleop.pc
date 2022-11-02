@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rqt_ground_robot_teleop
+Description: Description of rqt_ground_robot_teleop
+Version: 1.3.10
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

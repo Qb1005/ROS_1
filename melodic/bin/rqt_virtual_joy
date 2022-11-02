@@ -1,0 +1,10 @@
+#!/usr/bin/python2
+
+import sys
+
+from rqt_virtual_joy.my_module import MyPlugin
+from rqt_gui.main import Main
+
+plugin = 'rqt_virtual_joy'
+main = Main(filename=plugin)
+sys.exit(main.main(standalone=plugin))

@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rqt_rosmon
+Description: Description of rqt_rosmon
+Version: 2.3.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

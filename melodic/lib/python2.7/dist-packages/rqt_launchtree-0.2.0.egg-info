@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: rqt_launchtree
+Version: 0.2.0
+Summary: An RQT plugin for hierarchical launchfile configuration introspection.
+Home-page: http://ros.org/wiki/rqt_launchtree
+Author: Philipp Schillinger
+Author-email: schillin@kth.se
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN

@@ -1,0 +1,8 @@
+prefix=/opt/ros/melodic
+
+Name: rqt_launchtree
+Description: Description of rqt_launchtree
+Version: 0.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
